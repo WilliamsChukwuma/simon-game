@@ -52,7 +52,7 @@ body {
   background-color: grey;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
   body {
     text-align: center;
     background-color: #044722;
